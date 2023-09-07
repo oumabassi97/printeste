@@ -1,51 +1,51 @@
 {
     "use": "true",
     "bannerAdUnitId1": {
-        "true": " ",
+        "true": "ca-app-pub-9527435734506351/5504247819",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId2": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/6982100578",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId3": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/6306193597",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId4": {
-        "true": " ",
+        "true": "ca-app-pub-9527435734506351/8103610557",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId5": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/4164365549",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "interstitialAdUnitId1": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/5724859224",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId2": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/9771915443",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId3": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/9580343753",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId4": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/6954180414",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId5": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/5449527051",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "nativeAdUnitId": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/3696342123",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "openaddId": {
-        "true": "",
+        "true": "ca-app-pub-9527435734506351/3696342123",
         "false": "ca-app-pub-3940256099942544/3419835294"
     }
 }
